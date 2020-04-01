@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1558560021 source:f:\c programming\project cpp\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+

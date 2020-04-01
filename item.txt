@@ -1,0 +1,16 @@
+.         No.            Brand     .                Model       .                 Price         .          Item remaining
+
+.         1.             Toyota     .              X corolla     .                15 lakhs      .              5
+
+.         2.             Honda      .                Civic       .                20 lakhs      .              0
+
+.         3.             Hyundai     .               Sonata       .               25 lakhs      .            14
+
+.         4.             Toyota      .               Premio       .               30 lakhs      .              2
+
+.         5.             Toyota      .               Harrier      .               70 lakhs      .              6
+
+.         7.             Mercedes      .             S class      .               50 lakhs      .              15
+
+.         8.              Toyota        .            Allion      .                 60 lakhs      .              10
+
